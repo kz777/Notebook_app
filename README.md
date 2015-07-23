@@ -1,0 +1,1 @@
+ This is an online Notebook web application.  We have users and notes and user can only see the notes that they create and no one else's
